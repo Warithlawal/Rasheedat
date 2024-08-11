@@ -296,12 +296,23 @@ nav .fas {
 	.img-1 {
 		margin-bottom: 20px;
 	}
+
 	.img-1 h3, p {
 		font-size: 15px;
 	}
 
+	.img-3 img {
+		height: 179px;
+		object-fit: cover;
+	}
+
 	.img-2 {
 		margin-bottom: 20px;
+	}
+
+	.img-2 img {
+		height: 179px;
+		object-fit: cover;
 	}
 
 	.img-2 h3, p {
